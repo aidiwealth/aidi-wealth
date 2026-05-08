@@ -11,29 +11,61 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
 
   // <head> — title, meta, favicon, fonts (Cormorant Garamond + Instrument Sans)
-  app: {
-    head: {
-      htmlAttrs: { lang: 'en' },
-      title: 'Aidi Wealth — The wealth management Office of Aidi Ventures Group',
-      meta: [
-        { charset: 'UTF-8' },
-        { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
-        {
-          name: 'description',
-          content:
-            'The wealth management arm of Aidi Ventures Group. Stocks & ETFs, Treasury & Cash, Gold and Crypto — one platform, institutional infrastructure, no million-dollar minimum.'
-        }
-      ],
-      link: [
-        { rel: 'icon', type: 'image/svg+xml', href: FAVICON_DATA_URI },
-        { rel: 'apple-touch-icon', href: FAVICON_DATA_URI },
-        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
-        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
-        {
-          rel: 'stylesheet',
-          href: 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Instrument+Sans:wght@400;500;600&display=swap'
-        }
-      ]
-    }
+
+app: {
+  head: {
+    htmlAttrs: { lang: 'en' },
+    title: 'Aidi Wealth — Building real wealth, globally.',
+    meta: [
+      { charset: 'UTF-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
+      // Standard SEO
+      {
+        name: 'description',
+        content:
+          'Invest in Stocks & ETFs, Treasury & Cash, Gold and Crypto — one investment office, institutional infrastructure.'
+      },
+      {
+        name: 'keywords',
+        content:
+          'Aidi Wealth, Aidi Ventures Group, wealth management, family office, multi-asset investing, treasury management, T-Bills, ETFs, gold custody, crypto custody, registered investment advisor, emerging markets wealth, Sacramento wealth management'
+      },
+      // Open Graph (Facebook, LinkedIn, iMessage previews, etc.)
+      { property: 'og:locale',          content: 'en_US' },
+      { property: 'og:type',            content: 'website' },
+      { property: 'og:title',           content: 'Aidi Wealth' },
+      {
+        property: 'og:description',
+        content:
+          'Build real wealth, globally, across stocks, treasuries, gold and crypto.'
+      },
+      { property: 'og:url',             content: 'https://aidiwealth.com/' },
+      { property: 'og:site_name',       content: 'Aidi Wealth' },
+      { property: 'og:image',           content: 'https://aidiwealth.com/og-image.png' },
+      { property: 'og:image:width',     content: '1200' },
+      { property: 'og:image:height',    content: '630' },
+      { property: 'og:image:type',      content: 'image/png' },
+      // Twitter / X cards
+      { name: 'twitter:card',           content: 'summary_large_image' },
+      { name: 'twitter:title',          content: 'Aidi Wealth' },
+      {
+        name: 'twitter:description',
+        content:
+          'Build real wealth, globally, across stocks, treasuries, gold and crypto.'
+      },
+      { name: 'twitter:image',          content: 'https://aidiwealth.com/og-image.png' }
+    ],
+    link: [
+      { rel: 'icon',             type: 'image/svg+xml', href: '/favicon.svg' },
+      { rel: 'apple-touch-icon', href: '/favicon.svg' },
+      { rel: 'canonical',        href: 'https://aidiwealth.com/' },
+      { rel: 'preconnect',       href: 'https://fonts.googleapis.com' },
+      { rel: 'preconnect',       href: 'https://fonts.gstatic.com', crossorigin: '' },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Instrument+Sans:wght@400;500;600&display=swap'
+      }
+    ]
   }
+}
 })
