@@ -14,7 +14,7 @@
     </div>
     <div class="products-head-right">
       <p class="products-lede">
-        Stocks, treasuries, gold and crypto &mdash; structured the way private offices have done it for generations, delivered through licensed advisors and institutional partners.
+        Stocks, treasuries, gold and digital assets &mdash; structured the way private offices have done it for generations, delivered through licensed advisors and institutional partners.
       </p>
     </div>
   </div>
@@ -86,9 +86,9 @@
         </div>
         <span class="product-tag">Hedge</span>
       </div>
-      <h3 class="product-name">Crypto <em>Assets</em></h3>
+      <h3 class="product-name">Digital <em>Assets</em></h3>
       <p class="product-desc">
-        Bitcoin, Ethereum and leading digital assets held through institutional custody &mdash; tracked alongside your traditional holdings, never co-mingled with operational funds.
+        USDC, BTC, ETH and leading digital assets held through institutional custody &mdash; tracked alongside your traditional holdings, never co-mingled with operational funds.
       </p>
     </article>
 

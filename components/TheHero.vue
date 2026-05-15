@@ -51,7 +51,7 @@
 
       <div class="video-caption">
         <p class="video-caption-text">
-          Stocks, treasuries, gold &amp; crypto &mdash; one investment office, no million&#8209;dollar minimum.
+          Stocks, treasuries, gold &amp; digital assets &mdash; one investment office, no million&#8209;dollar minimum.
         </p>
         <a class="video-portfolio-link" href="https://joinaidi.com" target="_blank" rel="noopener">
           Platform
