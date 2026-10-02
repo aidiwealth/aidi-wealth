@@ -2,9 +2,6 @@
   <div>
     <TheNav />
     <TheHero />
-    <TheProducts />
-    <TheStrip />
-    <TheFooter />
   </div>
 </template>
 

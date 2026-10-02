@@ -23,17 +23,7 @@
         Talk to us
       </button>
     </div>
-
-    <div class="hero-stats">
-      <div class="stat-item">
-        <span class="stat-num"><em>4</em>—Asset</span>
-        <span class="stat-label">Classes</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-num">$19M+</span>
-        <span class="stat-label">in Assets (incl. founder capital)</span>
-      </div>
-    </div>
+    <p class="hero-disclosure">Investing involves risk, including loss of principal. Aidi Wealth is part of The Aidi Group; services and disclosures are at <a href="https://joinaidi.com" target="_blank" rel="noopener">joinaidi.com</a>.</p>
   </div>
 
   <div class="hero-visual">

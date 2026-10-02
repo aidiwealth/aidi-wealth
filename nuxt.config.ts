@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   // Global CSS — same brand tokens & sections from the source HTML
-  css: ['~/assets/css/main.css'],
+  css: ['~/assets/css/main.css', '~/assets/css/aidi-group.css'],
 
   // <head> — title, meta, favicon, fonts (Cormorant Garamond + Instrument Sans)
 
@@ -28,7 +28,7 @@ app: {
       {
         name: 'keywords',
         content:
-          'Aidi Wealth, Aidi Ventures Group, wealth management, family office, multi-asset investing, treasury management, T-Bills, ETFs, gold custody, crypto custody, registered investment advisor, emerging markets wealth, Sacramento wealth management'
+          'Aidi Wealth, The Aidi Group, wealth management, family office, multi-asset investing, treasury management, T-Bills, ETFs, gold custody, crypto custody, emerging markets wealth, Sacramento wealth management'
       },
       // Open Graph (Facebook, LinkedIn, iMessage previews, etc.)
       { property: 'og:locale',          content: 'en_US' },
