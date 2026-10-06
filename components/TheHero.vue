@@ -23,7 +23,7 @@
         Talk to us
       </button>
     </div>
-    <p class="hero-disclosure">Investing involves risk, including loss of principal. Aidi Wealth is part of The Aidi Group; services and disclosures are at <a href="https://aidiwealth.com" target="_blank" rel="noopener">aidiwealth.com</a>.</p>
+    <p class="hero-disclosure">Investing involves risk, including loss of principal. Aidi Wealth is part of The Aidi Group; services and disclosures are shared with clients in respective jurisdictions.</p>
   </div>
 
   <div class="hero-visual">
