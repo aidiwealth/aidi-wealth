@@ -23,7 +23,7 @@
         Talk to us
       </button>
     </div>
-    <p class="hero-disclosure">Investing involves risk, including loss of principal. Aidi Wealth is part of The Aidi Group; services and disclosures are at <a href="https://joinaidi.com" target="_blank" rel="noopener">joinaidi.com</a>.</p>
+    <p class="hero-disclosure">Investing involves risk, including loss of principal. Aidi Wealth is part of The Aidi Group; services and disclosures are at <a href="https://aidiwealth.com" target="_blank" rel="noopener">aidiwealth.com</a>.</p>
   </div>
 
   <div class="hero-visual">
@@ -43,7 +43,7 @@
         <p class="video-caption-text">
           Stocks, treasuries, gold &amp; digital assets &mdash; one investment office, no million&#8209;dollar minimum.
         </p>
-        <a class="video-portfolio-link" href="https://joinaidi.com" target="_blank" rel="noopener">
+        <a class="video-portfolio-link" href="https://aidiwealth.com" target="_blank" rel="noopener">
           Platform
           <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6">
             <line x1="3" y1="13" x2="13" y2="3"/>

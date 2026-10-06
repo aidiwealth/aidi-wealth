@@ -63,5 +63,5 @@ npm run preview      # Preview the build locally
   `pages/index.vue`. Anything in `/components` whose filename matches the tag
   is wired up automatically by Nuxt.
 - **External link target**: the brand mark in the nav still points to
-  `https://joinaidi.com`, and the hero "Platform" badge points there too,
+  `https://aidiwealth.com`, and the hero "Platform" badge points there too,
   matching the source.
