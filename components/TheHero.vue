@@ -43,13 +43,6 @@
         <p class="video-caption-text">
           Stocks, treasuries, gold &amp; digital assets &mdash; one investment office, no million&#8209;dollar minimum.
         </p>
-        <a class="video-portfolio-link" href="https://aidiwealth.com" target="_blank" rel="noopener">
-          Platform
-          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6">
-            <line x1="3" y1="13" x2="13" y2="3"/>
-            <polyline points="6 3 13 3 13 10"/>
-          </svg>
-        </a>
       </div>
     </div>
   </div>
