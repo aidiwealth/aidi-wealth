@@ -22,6 +22,13 @@
         </svg>
         Talk to us
       </button>
+      <a class="btn btn-dark" href="https://app.theaidigroup.com/aidi-wealth" style="text-decoration: none;">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="5" y1="12" x2="19" y2="12"/>
+          <polyline points="12 5 19 12 12 19"/>
+        </svg>
+        Let's begin
+      </a>
     </div>
     <p class="hero-disclosure">Investing involves risk, including loss of principal. Aidi Wealth is part of The Aidi Group; services and disclosures are shared with clients in respective jurisdictions.</p>
   </div>
